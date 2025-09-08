@@ -1,0 +1,14 @@
+#Ignore system files
+.DS_Store
+Thumb.db
+
+#Ignore temporary files
+*.temporary*.log
+
+#Ignore Excel backup files
+-$.xlsx
+
+#Ignore large Power BI backup files
+*.pbix.backup
+*.pbit
+
