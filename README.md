@@ -156,4 +156,4 @@ The analysis was structured into:
 
 
 ## Conclusion
-The analysis highlights high costs for cancer, a large patient base for asthma, and significant reliance on urgent/emergency admissions. Balanced gender distribution and spread of insurance providers show wide healthcare access. Key improvement areas include cost control in cancer care, preventive asthma programs, better diagnostic accuracy, and emergency care capacity expansion.  
+The analysis highlights high costs for cancer, a large patient base for asthma, and significant reliance on emergency admissions. Balanced gender distribution and spread of insurance providers show wide healthcare access. Key improvement areas include cost control in cancer care, preventive asthma programs, better diagnostic accuracy, and emergency care capacity expansion.  
